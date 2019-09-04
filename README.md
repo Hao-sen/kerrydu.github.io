@@ -11,7 +11,6 @@
 ---
 ### 教育经历
 * 2012.09-2015.06， 厦门大学， 能源经济学，博士学位
-
 ---
 <!--
 ### 科研项目
@@ -63,6 +62,7 @@
 3.	林伯强,**杜克锐**. 我国能源生产率增长的动力何在：基于距离函数的分解. 金融研究,2013, 09,84-96.
 1. **杜克锐**,罗能生. 电视台集团化还是竞争:一个产业组织的视角. 世界经济文汇,2011,06:11-31. （本科毕业论文）
 
+---
 ### 期刊评审
 Energy Economics, Computational Economics, Economic Modelling, Energy Policy, Technological Forecasting & Social Change, Applied Energy, Energy, Renewable and Sustainable Energy Reviews, Journal of Cleaner Production, Transportation Research Part A: Policy and Practice，Business, Strategy and the Environment, 国家自然科学基金（面上项目通讯评审） 
 
