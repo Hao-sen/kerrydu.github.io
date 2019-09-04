@@ -1,23 +1,31 @@
 ## 杜克锐(Kerry Du)
+
 > kerrydu AT xmu.edu.cn
 
 ### About me
+
 * 1986年6月出生于广东汕头,2015年6月于厦门大学获经济学博士学位，2019年1月起任厦门大学中国能源政策研究院副教授，主要研究领域为应用计量经济学、能源和环境经济学，效率和生产率分析；在《经济研究》、《世界经济》、《Energy Economics》等国内外重要期刊发表论文20多篇，其中两篇入选*ESI高引论文*；主持国家自然科学基金青年项目、中国博士后科学基金面上项目中国博士后科学基金特别资助项目、山东省自然科学基金博士项目等多个课题；获得山东省社会科学优秀成果二等奖（2018）。
+
 ---
 ### 工作经历
+
 * 2019年1月至今 ，            厦门大学管理学院，中国能源政策研究院， 副教授
 * 2015年7月-2018年11月，山东大学经济研究院， 助理研究员
+
 ---
 ### 教育经历
 * 2012.09-2015.06， 厦门大学， 能源经济学，博士学位
 ---
 ### 科研项目
+
 * 国家自然科学基金青年项目，17万元，2017.01-2019.12，项目负责人
 * 山东省自然科学基金博士项目，6万元，2016.11-2018.11，项目负责人
 * 中国博士后科学基金面上项目，8万元，2016.03-2017.09，项目负责人
 * 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
+
 ---
 ### 程序编写
+
 * reshape3: Stata  module to enhance reshape for multilevel data [ssc install reshape3]
 *  LMDI: Stata module to compute Logarithmic Mean Divisia Index Decomposition [ssc install lmdi]
 * LABONE: Stata module to label variables after import excel [ssc install labone]
@@ -25,9 +33,11 @@
 * [Some Stata commands on DEA models for energy and environmental efficiency evaluation](https://gitee.com/kerrydu/STATA-DEA/tree/master)
 * [PSFA2010: Matlab module for Estimating Fixed-Effect Panel Stochastic Frontier Models by Model Transformation](http://homepage.ntu.edu.tw/~wangh/Matlab_W&H_JoE(2010).zip)
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
+
 ---
 
 ### 论文发表
+
 1. **Kerui Du**, Pengzhen Li, Zheming Yan.  [Do green technology innovations contribute to carbon dioxide emission reduction? Empirical Evidence from Patent Data](https://linkinghub.elsevier.com/retrieve/pii/S0040162518306176). Technological Forecasting & Social Change, Volume 146, September 2019, Pages 297-303. 
 
 1. Caiquan Bai, **Kerui Du**（通讯作者), Ying Yu, Chen Feng. [Understanding the trend of total factor carbon productivity in the world: Insights from convergence analysis](https://www.sciencedirect.com/science/article/pii/S0140988319301495). Energy Economics, Volume 81, June 2019, Pages 698-708
@@ -36,7 +46,7 @@
 1.  **Kerui Du**, Jianglong Li.  [Towards a green world: How do green technology innovations affect total-factor carbon productivity](https://www.sciencedirect.com/science/article/pii/S0301421519302824). Energy Policy, Volume 131, August 2019, Pages 240-250.
 1.  Xin Yao,  Ruting Huang,  **Kerui Du**.  [The impacts of market power on power grid efficiency: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X19300239). China Economic Review，China Economic Review, Volume 55, June 2019, Pages 99-110.
 
-1.   Hongxun Liu, **Kerui Du**（通讯作者），Jianglong Li. [An improved approach to estimate direct rebound effect by incorporating energy efficiency: A revisit of China's industrial energy demand](https://www.sciencedirect.com/science/article/pii/S0140988319300696). Energy Economics, Volume 80, May 2019, Pages 720-730.
+1.  Hongxun Liu, **Kerui Du**（通讯作者），Jianglong Li. [An improved approach to estimate direct rebound effect by incorporating energy efficiency: A revisit of China's industrial energy demand](https://www.sciencedirect.com/science/article/pii/S0140988319300696). Energy Economics, Volume 80, May 2019, Pages 720-730.
 1.	**Kerui Du**. Econometrics convergence test and club clustering using Stata. Stata Journal, 2017，Volume 17 Number 4， pp. 882-900.
 2.  Xiaoling Ouyang， Beiying Gao，**Kerui Du**(共同通讯作者), Gang Du. Industrial sectors' energy rebound effect: An empirical study of Yangtze River Delta urban agglomeration, Energy , Volume 145, 15 February 2018, Pages 408-416.
 1.	Zhi Li, Xiaoling Ouyang, **Kerui Du** (共同通讯作者), Yang Zhao, Does government transparency contribute to improved eco-efficiency performance? An empirical study of 262 cities in China, Energy Policy, Volume 110, November 2017, Pages 79-89. 
