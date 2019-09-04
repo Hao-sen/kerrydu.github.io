@@ -29,7 +29,7 @@
 * [PSFA2010: Matlab module for Estimating Fixed-Effect Panel Stochastic Frontier Models by Model Transformation](http://homepage.ntu.edu.tw/~wangh/Matlab_W&H_JoE(2010).zip)
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
 ---
-###论文发表
+### 论文发表
 1. **Kerui Du**, Pengzhen Li, Zheming Yan.  [Do green technology innovations contribute to carbon dioxide emission reduction? Empirical Evidence from Patent Data](https://linkinghub.elsevier.com/retrieve/pii/S0040162518306176). Technological Forecasting & Social Change, Volume 146, September 2019, Pages 297-303. 
 
 1. Caiquan Bai, **Kerui Du**（通讯作者), Ying Yu, Chen Feng. [Understanding the trend of total factor carbon productivity in the world: Insights from convergence analysis](https://www.sciencedirect.com/science/article/pii/S0140988319301495). Energy Economics, Volume 81, June 2019, Pages 698-708
