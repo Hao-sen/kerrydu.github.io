@@ -1,5 +1,5 @@
 # 杜克锐(Kerry Du)
-## 厦门大学 副教授
+> 厦门大学 副教授
 > kerrydu AT xmu.edu.cn
 ---
 ### About me
