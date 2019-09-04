@@ -42,13 +42,10 @@
 ### 论文发表
 
 1. **Kerui Du**, Pengzhen Li, Zheming Yan.  [Do green technology innovations contribute to carbon dioxide emission reduction? Empirical Evidence from Patent Data](https://linkinghub.elsevier.com/retrieve/pii/S0040162518306176). Technological Forecasting & Social Change, Volume 146, September 2019, Pages 297-303. 
-
 1. Caiquan Bai, **Kerui Du**（通讯作者), Ying Yu, Chen Feng. [Understanding the trend of total factor carbon productivity in the world: Insights from convergence analysis](https://www.sciencedirect.com/science/article/pii/S0140988319301495). Energy Economics, Volume 81, June 2019, Pages 698-708
-
 1. Jianglong Li, Hongxun Liu, **Kerui Du**（通讯作者). [Does market-oriented reform increase energy rebound effect? Evidence from China's regional development](https://www.sciencedirect.com/science/article/pii/S1043951X19300574), China Economic Review, 2019，56，101304.
 1.  **Kerui Du**, Jianglong Li.  [Towards a green world: How do green technology innovations affect total-factor carbon productivity](https://www.sciencedirect.com/science/article/pii/S0301421519302824). Energy Policy, Volume 131, August 2019, Pages 240-250.
 1.  Xin Yao,  Ruting Huang,  **Kerui Du**.  [The impacts of market power on power grid efficiency: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X19300239). China Economic Review，China Economic Review, Volume 55, June 2019, Pages 99-110.
-
 1.  Hongxun Liu, **Kerui Du**（通讯作者），Jianglong Li. [An improved approach to estimate direct rebound effect by incorporating energy efficiency: A revisit of China's industrial energy demand](https://www.sciencedirect.com/science/article/pii/S0140988319300696). Energy Economics, Volume 80, May 2019, Pages 720-730.
 1.	**Kerui Du**. Econometrics convergence test and club clustering using Stata. Stata Journal, 2017，Volume 17 Number 4， pp. 882-900.
 2.  Xiaoling Ouyang， Beiying Gao，**Kerui Du**(共同通讯作者), Gang Du. Industrial sectors' energy rebound effect: An empirical study of Yangtze River Delta urban agglomeration, Energy , Volume 145, 15 February 2018, Pages 408-416.
