@@ -3,7 +3,7 @@
 > kerrydu AT xmu.edu.cn
 ---
 ### About me
->男，1986年6月出生于广东汕头,2015年6月于厦门大学获经济学博士学位，2019年1月起任厦门大学中国能源政策研究院副教授，主要研究领域为应用计量经济学、能源和环境经济学，效率和生产率分析；在《经济研究》、《世界经济》、《Energy Economics》等国内外重要期刊发表论文20多篇，其中两篇入选*ESI高引论文*；主持国家自然科学基金青年项目、中国博士后科学基金面上项目中国博士后科学基金特别资助项目、山东省自然科学基金博士项目等多个课题；获得山东省社会科学优秀成果二等奖（2018）。
+> 1986年6月出生于广东汕头,2015年6月于厦门大学获经济学博士学位，2019年1月起任厦门大学中国能源政策研究院副教授，主要研究领域为应用计量经济学、能源和环境经济学，效率和生产率分析；在《经济研究》、《世界经济》、《Energy Economics》等国内外重要期刊发表论文20多篇，其中两篇入选*ESI高引论文*；主持国家自然科学基金青年项目、中国博士后科学基金面上项目中国博士后科学基金特别资助项目、山东省自然科学基金博士项目等多个课题；获得山东省社会科学优秀成果二等奖（2018）。
 ---
 ### 工作经历
 * 2019年1月至今 ，            厦门大学管理学院，中国能源政策研究院， 副教授
@@ -29,6 +29,7 @@
 * [PSFA2010: Matlab module for Estimating Fixed-Effect Panel Stochastic Frontier Models by Model Transformation](http://homepage.ntu.edu.tw/~wangh/Matlab_W&H_JoE(2010).zip)
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
 ---
+
 ### 论文发表
 1. **Kerui Du**, Pengzhen Li, Zheming Yan.  [Do green technology innovations contribute to carbon dioxide emission reduction? Empirical Evidence from Patent Data](https://linkinghub.elsevier.com/retrieve/pii/S0040162518306176). Technological Forecasting & Social Change, Volume 146, September 2019, Pages 297-303. 
 
