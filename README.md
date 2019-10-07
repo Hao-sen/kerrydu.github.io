@@ -62,5 +62,5 @@
 
 ---
 ### 期刊评审
-Energy Economics, Computational Economics, Economic Modelling, Energy Policy, Technological Forecasting & Social Change, Applied Energy, Energy, Renewable and Sustainable Energy Reviews, Journal of Cleaner Production, Transportation Research Part A: Policy and Practice，Business, Strategy and the Environment, 国家自然科学基金（面上项目通讯评审） 
+Energy Economics, Computational Economics, China Economic Review, Economic Modelling, Energy Policy, Technological Forecasting & Social Change, Applied Energy, Energy, Renewable and Sustainable Energy Reviews, Journal of Cleaner Production, Transportation Research Part A: Policy and Practice，Business, Strategy and the Environment, 国家自然科学基金（面上项目通讯评审） 
 
