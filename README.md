@@ -18,6 +18,7 @@
 * 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
 ---
 ### 程序编写
+* [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
 * reshape3: Stata  module to enhance reshape for multilevel data [ssc install reshape3]
 *  LMDI: Stata module to compute Logarithmic Mean Divisia Index Decomposition [ssc install lmdi]
 * LABONE: Stata module to label variables after import excel [ssc install labone]
