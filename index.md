@@ -29,6 +29,8 @@
 ### 程序编写
 
 * [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
+* [sbmeff: Slacks-based Measure of Efficiency in Stata](https://github.com/kerrydu/sbmeff)
+* [ddfeff: Directional Distance Function for Efficiency/Productivity Analysis in Stata](https://github.com/kerrydu/ddfeff)
 * reshape3: Stata  module to enhance reshape for multilevel data [ssc install reshape3]
 *  LMDI: Stata module to compute Logarithmic Mean Divisia Index Decomposition [ssc install lmdi]
 * LABONE: Stata module to label variables after import excel [ssc install labone]
