@@ -2,7 +2,8 @@
 > kerrydu AT xmu.edu.cn
 
 ### About me
-* 2015年6月于厦门大学获经济学博士学位，2019年1月起任厦门大学中国能源政策研究院副教授，主要研究领域为应用计量经济学、能源和环境经济学，效率和生产率分析；在《经济研究》、《世界经济》、《Energy Economics》等国内外重要期刊发表论文20多篇，其中两篇入选*ESI高引论文*；主持国家自然科学基金青年项目、中国博士后科学基金面上项目中国博士后科学基金特别资助项目、山东省自然科学基金博士项目等多个课题；获得山东省社会科学优秀成果二等奖（2018）。
+* 2015年6月于厦门大学获经济学博士学位，2019年1月起任厦门大学中国能源政策研究院副教授，主要研究领域为应用计量经济学、能源和环境经济学，效率和生产率分析；
+在《经济研究》、《世界经济》、《Energy Economics》等国内外重要期刊发表论文20多篇，其中三篇入选*ESI高引论文*；主持国家自然科学基金青年项目、中国博士后科学基金面上项目中国博士后科学基金特别资助项目、山东省自然科学基金博士项目等多个课题；获得山东省社会科学优秀成果二等奖（2018）。
 ---
 ### 工作经历
 * 2019年1月至今 ，            厦门大学管理学院，中国能源政策研究院， 副教授
@@ -10,15 +11,11 @@
 ---
 ### 教育经历
 * 2012.09-2015.06， 厦门大学， 能源经济学，博士学位
----
-### 科研项目
-* 国家自然科学基金青年项目，17万元，2017.01-2019.12，项目负责人
-* 山东省自然科学基金博士项目，6万元，2016.11-2018.11，项目负责人
-* 中国博士后科学基金面上项目，8万元，2016.03-2017.09，项目负责人
-* 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
+
 ---
 ### 程序编写
 * [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
+* [malmq2: Malmquist Productivity index in Stata](https://github.com/kerrydu/malmq2)
 * [sbmeff: Slacks-based Measure of Efficiency in Stata](https://github.com/kerrydu/sbmeff)
 * [ddfeff: Directional Distance Function for Efficiency/Productivity Analysis in Stata](https://github.com/kerrydu/ddfeff)
 * reshape3: Stata  module to enhance reshape for multilevel data [ssc install reshape3]
@@ -63,6 +60,12 @@
 3.	林伯强,**杜克锐**. 我国能源生产率增长的动力何在：基于距离函数的分解. 金融研究,2013, 09,84-96.
 1. **杜克锐**,罗能生. 电视台集团化还是竞争:一个产业组织的视角. 世界经济文汇,2011,06:11-31. （本科毕业论文）
 
+---
+### 科研项目
+* 国家自然科学基金青年项目，17万元，2017.01-2019.12，项目负责人
+* 山东省自然科学基金博士项目，6万元，2016.11-2018.11，项目负责人
+* 中国博士后科学基金面上项目，8万元，2016.03-2017.09，项目负责人
+* 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
 ---
 ### 期刊评审
 Energy Economics, Computational Economics, China Economic Review, Economic Modelling, Energy Policy, Technological Forecasting & Social Change, Applied Energy, Energy, Renewable and Sustainable Energy Reviews, Journal of Cleaner Production, Transportation Research Part A: Policy and Practice，Business, Strategy and the Environment, 国家自然科学基金（面上项目通讯评审） 

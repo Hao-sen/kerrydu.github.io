@@ -17,18 +17,10 @@
 
 ---
 
-### 科研项目
-
-* 国家自然科学基金青年项目，17万元，2017.01-2019.12，项目负责人
-* 山东省自然科学基金博士项目，6万元，2016.11-2018.11，项目负责人
-* 中国博士后科学基金面上项目，8万元，2016.03-2017.09，项目负责人
-* 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
-
----
-
 ### 程序编写
 
 * [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
+* [malmq2: Malmquist Productivity index in Stata](https://github.com/kerrydu/malmq2)
 * [sbmeff: Slacks-based Measure of Efficiency in Stata](https://github.com/kerrydu/sbmeff)
 * [ddfeff: Directional Distance Function for Efficiency/Productivity Analysis in Stata](https://github.com/kerrydu/ddfeff)
 * reshape3: Stata  module to enhance reshape for multilevel data [ssc install reshape3]
@@ -71,6 +63,15 @@
 2.	林伯强,**杜克锐**. 理解中国能源强度的变化:一个综合的分解框架. 世界经济,2014,04:69-87.
 3.	林伯强,**杜克锐**. 我国能源生产率增长的动力何在：基于距离函数的分解. 金融研究,2013, 09,84-96.
 1. **杜克锐**,罗能生. 电视台集团化还是竞争:一个产业组织的视角. 世界经济文汇,2011,06:11-31. （本科毕业论文）
+
+---
+
+### 科研项目
+
+* 国家自然科学基金青年项目，17万元，2017.01-2019.12，项目负责人
+* 山东省自然科学基金博士项目，6万元，2016.11-2018.11，项目负责人
+* 中国博士后科学基金面上项目，8万元，2016.03-2017.09，项目负责人
+* 中国博士后科学基金特别资助项目，15万元，2017.04-2018.04，项目负责人
 
 ---
 ### 期刊评审
