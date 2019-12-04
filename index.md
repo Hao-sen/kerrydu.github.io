@@ -4,6 +4,7 @@
 ### 程序编写
 
 * [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
+* [gftp: Total Factor Productivity with Undesirable Outputs in Stata](https://github.com/kerrydu/gtfpch)
 * [malmq2: Malmquist Productivity index in Stata](https://github.com/kerrydu/malmq2)
 * [sbmeff: Slacks-based Measure of Efficiency in Stata](https://github.com/kerrydu/sbmeff)
 * [ddfeff: Directional Distance Function for Efficiency/Productivity Analysis in Stata](https://github.com/kerrydu/ddfeff)
