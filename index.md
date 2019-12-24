@@ -1,7 +1,7 @@
-## 杜克锐(Kerry Du)
+## Kerry Du
 
 
-### 程序编写
+### 程序
 
 * [xtplfc: Stata  module to estimate partially linear functional-coefficient panel data models](https://github.com/kerrydu/xtplfc_Stata)
 * [mepi: Malmquist Energy Productivity Index in Stata](https://github.com/kerrydu/mepi)
@@ -18,3 +18,6 @@
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
 
 
+```
+以上工作得到国家自科基金青年项目（批准号：71603148）的资助。
+```
