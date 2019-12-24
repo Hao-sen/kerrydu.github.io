@@ -18,6 +18,5 @@
 * [PSECTA: Stata module for econometric convergent test and club clustering](https://sites.google.com/site/kerrydu2016/home/stata-files)
 
 
-```
-以上工作得到国家自科基金青年项目（批准号：71603148）的资助。
-```
+
+> 致谢：以上工作得到国家自科基金青年项目（批准号：71603148）的资助。
